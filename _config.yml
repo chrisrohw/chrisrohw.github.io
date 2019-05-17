@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: My homepage
+description: something
+plugins:
+  - jemoji
